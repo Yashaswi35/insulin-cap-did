@@ -1,0 +1,6 @@
+duckdb>=1.1
+pandas>=2.2
+pyfixest>=0.30
+scipy>=1.11
+matplotlib>=3.8
+requests>=2.31

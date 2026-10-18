@@ -1,0 +1,31 @@
+{
+  "years": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "states": 51,
+  "units": 1957,
+  "drugs": 47,
+  "insulin_generics": 15,
+  "claims_in_panel": 426939811.0,
+  "fills_effect_pct": -7.196095492009093,
+  "fills_effect_ci": [
+    -7.8528044820328065,
+    -6.5347063085714225
+  ],
+  "fills_effect_p": 0.0,
+  "oop_effect_pct": -28.03931680041335,
+  "insulin_oop_per_fill_by_year": {
+    "2019": 24.83,
+    "2020": 27.38,
+    "2021": 21.25,
+    "2022": 19.47,
+    "2023": 14.33
+  },
+  "implied_extra_insulin_fills_post": -2879930.540385109,
+  "pretrend_p_fills": 0.0,
+  "pretrend_p_oop": 4.864206577417931e-131
+}
